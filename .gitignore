@@ -1,4 +1,11 @@
-NN/mnist_dataset/mnist_train.csv
-NN/.ipynb_checkpoints/
-NN/.DS_Store
+# data csv file s    #
+**/*.csv
+**/*.zip
+
+# jupyter temp files #
+**/.ipynb_checkpoints/
+
+
+# OS generated files #
 .DS_Store
+.DS_Store?
